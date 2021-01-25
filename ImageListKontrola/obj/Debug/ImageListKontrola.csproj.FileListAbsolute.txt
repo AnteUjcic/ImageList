@@ -1,0 +1,10 @@
+C:\Users\Ante Ujcic\source\repos\ImageListKontrola\ImageListKontrola\bin\Debug\ImageListKontrola.exe.config
+C:\Users\Ante Ujcic\source\repos\ImageListKontrola\ImageListKontrola\bin\Debug\ImageListKontrola.exe
+C:\Users\Ante Ujcic\source\repos\ImageListKontrola\ImageListKontrola\bin\Debug\ImageListKontrola.pdb
+C:\Users\Ante Ujcic\source\repos\ImageListKontrola\ImageListKontrola\obj\Debug\ImageListKontrola.csprojAssemblyReference.cache
+C:\Users\Ante Ujcic\source\repos\ImageListKontrola\ImageListKontrola\obj\Debug\ImageListKontrola.Form1.resources
+C:\Users\Ante Ujcic\source\repos\ImageListKontrola\ImageListKontrola\obj\Debug\ImageListKontrola.Properties.Resources.resources
+C:\Users\Ante Ujcic\source\repos\ImageListKontrola\ImageListKontrola\obj\Debug\ImageListKontrola.csproj.GenerateResource.cache
+C:\Users\Ante Ujcic\source\repos\ImageListKontrola\ImageListKontrola\obj\Debug\ImageListKontrola.csproj.CoreCompileInputs.cache
+C:\Users\Ante Ujcic\source\repos\ImageListKontrola\ImageListKontrola\obj\Debug\ImageListKontrola.exe
+C:\Users\Ante Ujcic\source\repos\ImageListKontrola\ImageListKontrola\obj\Debug\ImageListKontrola.pdb
